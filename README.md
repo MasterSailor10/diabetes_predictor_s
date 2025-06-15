@@ -58,7 +58,7 @@ Now, open http://127.0.0.1:5000/ in your browser to access the predictor.
 
 🔗 Live Deployment
 
-The application is deployed on Render. You can access it here: https://diabetes-predictor-mhp.onrender.com/
+The application is deployed on Render. You can access it here: https://diabetes-predictor-ss.onrender.com
 
 ⏳ Note: Since the project is deployed on Render’s free-tier, the first-time load may take 1-50 seconds.⚠️ Disclaimer: The model is trained on a limited dataset, so the prediction accuracy may vary. Always consult a medical professional for definitive diagnosis.
 
