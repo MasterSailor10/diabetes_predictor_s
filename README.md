@@ -1,6 +1,6 @@
 🏥 Diabetes Predictor
 
-🔗 Repository: MasterSailor10/diabetes_predictor_p
+🔗 Repository: MasterSailor10/diabetes_predictor_s
 
 🚀 Overview
 
@@ -12,7 +12,7 @@ The Diabetes Predictor is a machine learning-powered web application designed to
 
 📂 Project Structure
 
-diabetes_predictor_p/ │── templates/ # HTML templates for the web app
+diabetes_predictor_s/ │── templates/ # HTML templates for the web app
 │── static/ # Static assets like CSS & images
 │── app.py # Flask web application
 │── diabetes.csv # Dataset used for model training
@@ -26,7 +26,7 @@ diabetes_predictor_p/ │── templates/ # HTML templates for the web app
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/MasterSailor10/diabetes_predictor_p.git
+git clone https://github.com/MasterSailor10/diabetes_predictor_s.git
 
 cd diabetes_predictor_p
 
